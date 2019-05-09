@@ -107,13 +107,13 @@ i {
 }
 
 .card-img-top {
-  height: 200px;
+  height: 250px;
   width: 100%;
   object-fit: cover;
 }
 
 .footer {
-  background: grey;
+  background: #7DD775;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -144,6 +144,7 @@ i {
 .footer-links a:hover {
   opacity: 1;
 }
+
 .footer .fa-heart {
   color: #D23333;
 }
